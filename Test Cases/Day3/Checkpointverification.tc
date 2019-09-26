@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkpointverification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3961add7-2a90-4fa6-81a1-8118f323aba2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f2b5866-7522-4a03-bbd5-eacfe7bb493a</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>643a0089-73ed-42b2-a666-67199c174fa6</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
